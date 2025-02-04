@@ -1,0 +1,15 @@
+/home/kaleb/projects/Design-Patterns-in-C-/DesignPatterns/bin/Debug/net8.0/DesignPatterns
+/home/kaleb/projects/Design-Patterns-in-C-/DesignPatterns/bin/Debug/net8.0/DesignPatterns.deps.json
+/home/kaleb/projects/Design-Patterns-in-C-/DesignPatterns/bin/Debug/net8.0/DesignPatterns.runtimeconfig.json
+/home/kaleb/projects/Design-Patterns-in-C-/DesignPatterns/bin/Debug/net8.0/DesignPatterns.dll
+/home/kaleb/projects/Design-Patterns-in-C-/DesignPatterns/bin/Debug/net8.0/DesignPatterns.pdb
+/home/kaleb/projects/Design-Patterns-in-C-/DesignPatterns/obj/Debug/net8.0/DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+/home/kaleb/projects/Design-Patterns-in-C-/DesignPatterns/obj/Debug/net8.0/DesignPatterns.AssemblyInfoInputs.cache
+/home/kaleb/projects/Design-Patterns-in-C-/DesignPatterns/obj/Debug/net8.0/DesignPatterns.AssemblyInfo.cs
+/home/kaleb/projects/Design-Patterns-in-C-/DesignPatterns/obj/Debug/net8.0/DesignPatterns.csproj.CoreCompileInputs.cache
+/home/kaleb/projects/Design-Patterns-in-C-/DesignPatterns/obj/Debug/net8.0/DesignPatterns.sourcelink.json
+/home/kaleb/projects/Design-Patterns-in-C-/DesignPatterns/obj/Debug/net8.0/DesignPatterns.dll
+/home/kaleb/projects/Design-Patterns-in-C-/DesignPatterns/obj/Debug/net8.0/refint/DesignPatterns.dll
+/home/kaleb/projects/Design-Patterns-in-C-/DesignPatterns/obj/Debug/net8.0/DesignPatterns.pdb
+/home/kaleb/projects/Design-Patterns-in-C-/DesignPatterns/obj/Debug/net8.0/DesignPatterns.genruntimeconfig.cache
+/home/kaleb/projects/Design-Patterns-in-C-/DesignPatterns/obj/Debug/net8.0/ref/DesignPatterns.dll
