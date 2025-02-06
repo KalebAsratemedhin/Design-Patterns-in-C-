@@ -2,6 +2,7 @@ using System;
 
 namespace DesignPatterns.src.Behavioural.Memento;
 
+// The care taker
 public class History
 {
     private List<EditorState> editorStates = new List<EditorState>();

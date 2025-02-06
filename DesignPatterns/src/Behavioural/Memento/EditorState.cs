@@ -2,6 +2,7 @@ using System;
 
 namespace DesignPatterns.src.Behavioural.Memento;
 
+// A representation of the snapshot of the editor
 public class EditorState
 {
     private readonly string _title;
